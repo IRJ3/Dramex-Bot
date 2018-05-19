@@ -1,2 +1,2 @@
-# Dramex-Bot
-Create by Mohammed
+# super-super-heroku-bot
+Bot using heroku, 24/7!
